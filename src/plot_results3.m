@@ -134,7 +134,7 @@ win_len= 10;
  end
  xlabel('Time','interpreter','latex');
 
- savefig("test_ospa2.fig")
+ %savefig("test_ospa2.fig")
 
 
 %plot cardinality
