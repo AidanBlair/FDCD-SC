@@ -5,8 +5,8 @@ Fully Distributed Coordinate Descent Multi-Sensor Control
 This repository contains the code for the paper "Distributed Multi-Sensor Control for Multi-Target Tracking Using Adaptive Complementary Fusion for LMB Densities" by Aidan Blair et al.
 
 ## Requirements
-. MATLAB 2023a
-. Statistics and Machine Learning Toolbox
+- MATLAB 2023a
+- Statistics and Machine Learning Toolbox
 The code most likely will work with more recent versions of MATLAB, however it hasn't been tested.
 
 ## Usage
